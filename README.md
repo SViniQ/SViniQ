@@ -7,7 +7,7 @@
 * 🤝  Estou aberto a colaborar em Desenvolvimento Web. 
 
 <a href=" https://github.com/SViniQ" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MateusLimadev?logo=github&style=for-the-badge&color=6366f1&labelColor=181824" /></a>
+src="https://img.shields.io/github/followers/SViniQ?logo=github&style=for-the-badge&color=6366f1&labelColor=181824" /></a>
 
 ### Habilidades
 
